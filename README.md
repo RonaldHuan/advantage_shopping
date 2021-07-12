@@ -5,5 +5,5 @@
 
 
 # Execução:
-    Para efetuar o cadastro, acesse a classe "CadastrarUsuarioRunner" em src/main/java/br/com/advantage/test/runners 
-    Para efetuar o login, acesse a classe "RealizarLoginRunner" em src/main/java/br/com/advantage/test/runners
+    Para efetuar o cadastro, execute a classe "CadastrarUsuarioRunner" em src/main/java/br/com/advantage/test/runners 
+    Para efetuar o login, execute a classe "RealizarLoginRunner" em src/main/java/br/com/advantage/test/runners
